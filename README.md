@@ -41,31 +41,23 @@ Works Cited
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
 |state|object|act_scores|The state where test score participation and average score data was collected. Alphabetically sorted.| 
-|participation_18|float64|act_scores|Participation percentage rate of students in 2018 from corresponding state.|
-|composite_18|float64|act_scores|Average score of ACT test calculated from Math, Reading, English, and Science subtests in 2018. Range of scores from 1 to 36.|
-|participation_19|float64|act_scores|Participation percentage rate of students in 2019 from corresponding state.|
-|composite_19|float64|act_scores|Average score of ACT test calculated from Math, Reading, English, and Science subtests in 2019. Range of scores from 1 to 36.|
-|participation_20|float64|act_scores|Participation percentage rate of students in 2020 from corresponding state.|
-|composite_20|float64|act_scores|Average score of ACT test calculated from Math, Reading, English, and Science subtests in 2020. Range of scores from 1 to 36.|
-|participation_21|float64|act_scores|Participation percentage rate of students in 2021 from corresponding state.|
-|composite_21|float64|act_scores|Average score of ACT test calculated from Math, Reading, English, and Science subtests in 2021. Range of scores from 1 to 36.|
+|participation_act_18|float64|act_scores|Participation percentage rate of students in 2018 from corresponding state.|
+|composite_act_18|float64|act_scores|Average score of ACT test calculated from Math, Reading, English, and Science subtests in 2018. Range of scores from 1 to 36.|
+|participation_act_19|float64|act_scores|Participation percentage rate of students in 2019 from corresponding state.|
+|composite_act_19|float64|act_scores|Average score of ACT test calculated from Math, Reading, English, and Science subtests in 2019. Range of scores from 1 to 36.|
+|participation_act_20|float64|act_scores|Participation percentage rate of students in 2020 from corresponding state.|
+|composite_act_20|float64|act_scores|Average score of ACT test calculated from Math, Reading, English, and Science subtests in 2020. Range of scores from 1 to 36.|
+|participation_act_21|float64|act_scores|Participation percentage rate of students in 2021 from corresponding state.|
+|composite_act_21|float64|act_scores|Average score of ACT test calculated from Math, Reading, English, and Science subtests in 2021. Range of scores from 1 to 36.|
 |state|object|sat_scores|The state where test score participation rate and average score data was collected. Alphabetically sorted.|
-|participation_18|float64|sat_scores|Participation percentage rate of students in 2018 from corresponding state.|
-|ebrw_18|int64|sat_scores|Average score of Evidence-Based Reading & Writing section of SAT in 2018|
-|math_18|int64|sat_scores|Average score of Math section of SAT in 2018|
-|composite_18|int64|sat_scores|Average score of SAT test calculated from EBRW (Evidence-Based Reading & Writing) & Math subtests in 2018. Range of scores from 400 to 1600.|
-|participation_19|float64|sat_scores|Participation percentage rate of students in 2019 from corresponding state.|
-|ebrw_19|int64|sat_scores|Average score of Evidence-Based Reading & Writing section of SAT in 2019|
-|math_19|int64|sat_scores|Average score of Math section of SAT in 2019|
-|composite_19|int64|sat_scores|Average score of SAT test calculated from EBRW (Evidence-Based Reading & Writing) & Math subtests in 2019. Range of scores from 400 to 1600.|
-|participation_20|float64|sat_scores|Participation percentage rate of students in 2020 from corresponding state.|
-|ebrw_20|int64|sat_scores|Average score of Evidence-Based Reading & Writing section of SAT in 2020|
-|math_20|int64|sat_scores|Average score of Math section of SAT in 2020|
-|composite_20|int64|sat_scores|Average score of SAT test calculated from EBRW (Evidence-Based Reading & Writing) & Math subtests in 2020. Range of scores from 400 to 1600.|
-|participation_21|float64|sat_scores|Participation percentage rate of students in 2021 from corresponding state.|
-|ebrw_21|int64|sat_scores|Average score of Evidence-Based Reading & Writing section of SAT in 2021|
-|math_21|int64|sat_scores|Average score of Math section of SAT in 2021|
-|composite_21|int64|sat_scores|Average score of SAT test calculated from EBRW (Evidence-Based Reading & Writing) & Math subtests in 2021. Range of scores from 400 to 1600.|
+|participation_sat_18|float64|sat_scores|Participation percentage rate of students in 2018 from corresponding state.|
+|composite_sat_18|int64|sat_scores|Average score of SAT test calculated from EBRW (Evidence-Based Reading & Writing) & Math subtests in 2018. Range of scores from 400 to 1600.|
+|participation_sat_19|float64|sat_scores|Participation percentage rate of students in 2019 from corresponding state.|
+|composite_sat_19|int64|sat_scores|Average score of SAT test calculated from EBRW (Evidence-Based Reading & Writing) & Math subtests in 2019. Range of scores from 400 to 1600.|
+|participation_sat_20|float64|sat_scores|Participation percentage rate of students in 2020 from corresponding state.|
+|composite_sat_20|int64|sat_scores|Average score of SAT test calculated from EBRW (Evidence-Based Reading & Writing) & Math subtests in 2020. Range of scores from 400 to 1600.|
+|participation_sat_21|float64|sat_scores|Participation percentage rate of students in 2021 from corresponding state.|
+|composite_sat_21|int64|sat_scores|Average score of SAT test calculated from EBRW (Evidence-Based Reading & Writing) & Math subtests in 2021. Range of scores from 400 to 1600.|
 
 ### Overview of Data Directory:
 
