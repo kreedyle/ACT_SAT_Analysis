@@ -1,7 +1,7 @@
 ## Project 1: Standardized Test Analysis and the Pandemic
 
 ### Problem statement: 
-Based off a four-year analysis, has COVID-19 had an impact on the standardized testing metrics of the ACT and SAT? If so, which metrics? This project focuses on the trends within the last four years and looks to offer insight on next steps. 
+The NES has formed a task force to evaulate the effects of the pandemic on national standardized testing metrics. Based off a four-year analysis, has COVID-19 had an impact on the standardized testing metrics of the ACT and SAT? If so, which metrics? This project focuses on the trends within the last four years and looks to offer insight on next steps. 
 
 ### Data Chosen: 
 
